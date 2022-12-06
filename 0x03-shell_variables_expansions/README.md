@@ -14,3 +14,4 @@ Task8-A script to print the result of a variable raised to another
 Task10- A script to print the exponents of two variables
 A script that prints the result of dividing two variables-Task9
 Task13-a script that prints a number with two decimal places
+A script to print the PATH
