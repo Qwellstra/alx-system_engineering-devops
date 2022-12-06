@@ -5,3 +5,4 @@ Displaying current directory contents in long format
 A script to display hidden files including the dot
 A script to display directory contents numerically
 A script to create a directory in a directory
+A script to move file from one directory to another
