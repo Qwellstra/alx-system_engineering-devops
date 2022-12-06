@@ -8,3 +8,4 @@ A script that writes info into a file the result of a command
 A script that duplicates the last line
 A script that deletes all the regular files with the .js extension
 A script that counts the number of directories and sub directories
+A script that displays the newest lines in the current directory
