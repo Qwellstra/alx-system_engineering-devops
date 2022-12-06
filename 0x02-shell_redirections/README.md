@@ -21,3 +21,4 @@ A script that reverses its output
 A script that prints all the users and their home directories,sorted by users
 A script that displays the third line of a file
 A script that finds all the empty files and directories in the current directory
+A script that lists all the files files with an extension
