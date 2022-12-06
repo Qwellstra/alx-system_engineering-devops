@@ -15,3 +15,4 @@ A script that displays lines containing a pattern
 A script that displays patterns and the last three lines in a file
 A script that displays all lines that do not contain a pattern
 A script that dsiplays all the lines of a file
+A script that replaces all the characters A and C from inputs
