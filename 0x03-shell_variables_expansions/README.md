@@ -4,3 +4,4 @@ A script that creates an alias
 A script to print hello user
 Task12-A script that prints all combination of letters
 Task11-A script to convert anumber from base 2 to base 10
+Task8-A script that prints the output of an addition
