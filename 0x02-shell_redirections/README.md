@@ -11,3 +11,4 @@ A script that counts the number of directories and sub directories
 A script that displays the newest lines in the current directory
 A script that prints words that only appear once
 A Script that displays a pattern from a file
+A script that displays lines containing a pattern
