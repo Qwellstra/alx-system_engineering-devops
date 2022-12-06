@@ -7,3 +7,4 @@ Task11-A script to convert anumber from base 2 to base 10
 Task8-A script that prints the output of an addition
 Task5- A script that lists all local variables and environment variables
 A script that counts  the number of directories
+Task4-A script to print the environment variables
