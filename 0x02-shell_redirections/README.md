@@ -23,3 +23,4 @@ A script that displays the third line of a file
 A script that finds all the empty files and directories in the current directory
 A script that lists all the files files with an extension
 A script that decodes acrostics that uses the first letter of each line
+A script that parses web serverlogs in tsv format
