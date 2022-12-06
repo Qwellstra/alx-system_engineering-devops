@@ -17,3 +17,4 @@ A script that displays all lines that do not contain a pattern
 A script that dsiplays all the lines of a file
 A script that replaces all the characters A and C from inputs
 A script that removes letters from input
+A script that reverses its output
