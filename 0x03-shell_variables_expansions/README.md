@@ -10,3 +10,5 @@ A script that counts  the number of directories
 Task4-A script to print the environment variables
 A script that creates a new local variable
 A script to set a global variable-Task7
+Task8-A script to print the result of a variable raised to another
+Task10- A script to print the exponents of two variables
