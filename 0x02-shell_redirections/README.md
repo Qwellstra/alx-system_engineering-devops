@@ -12,3 +12,4 @@ A script that displays the newest lines in the current directory
 A script that prints words that only appear once
 A Script that displays a pattern from a file
 A script that displays lines containing a pattern
+A script that displays patterns and the last three lines in a file
