@@ -18,3 +18,4 @@ A script to print the PATH
 Task14-A script that converts a number fomr base 10 to base 16
 A script to encode and decode in rot13
 A script to add two numbers
+A script to print everything in the input
