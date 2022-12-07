@@ -16,3 +16,4 @@ A script that prints the result of dividing two variables-Task9
 Task13-a script that prints a number with two decimal places
 A script to print the PATH
 Task14-A script that converts a number fomr base 10 to base 16
+A script to encode and decode in rot13
