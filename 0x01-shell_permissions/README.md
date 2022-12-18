@@ -6,3 +6,4 @@ Task 3- A script to change file ownership
 Task 4-A script to create an empty file
 Task 5- A script that adds execution rights
 Adding execution rights for everyone
+Task 7-A script that adds execution permission to the users
