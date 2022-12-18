@@ -13,3 +13,4 @@ A script that lists all files in cd and parent directory and boot directory
 A script that prints the file type
 A script that the type of a file
 Creating symbolic links
+A script that copies html files from cwd that didnot exist in parent directory
