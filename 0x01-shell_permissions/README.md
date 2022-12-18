@@ -14,3 +14,4 @@ Task 11-A script that adds exeecution rights to all files and directories
 Task 12-A scipt to create a directory with rights 751
 Task 13-A script that changes file ownership
 Task 14-changing file owenrship to everybody else
+Task 15- A script that changes file ownership from individuals to everyone in the group
