@@ -8,3 +8,4 @@ Task 5- A script that adds execution rights
 Adding execution rights for everyone
 Task 7-A script that adds execution permission to the users
 Task 8-A script that removes all users rights
+Task 9-A script that modifies afiles execution rights
