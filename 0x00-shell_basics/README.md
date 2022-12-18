@@ -12,3 +12,4 @@ A script that changes the current working directory to the previous one
 A script that lists all files in cd and parent directory and boot directory
 A script that prints the file type
 A script that the type of a file
+Creating symbolic links
