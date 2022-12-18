@@ -15,3 +15,5 @@ Task 12-A scipt to create a directory with rights 751
 Task 13-A script that changes file ownership
 Task 14-changing file owenrship to everybody else
 Task 15- A script that changes file ownership from individuals to everyone in the group
+Task 16- A script that changes file ownership if a condition is met
+Task 17-A script that plays Starwars IV episode in terminal
